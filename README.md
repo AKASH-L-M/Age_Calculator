@@ -8,3 +8,4 @@ Team Size: 1
 <br/>
 Time: 1 Day<br/>
 Tool Stack: Hyper Text Markup Language, Cascading Style Sheets, JavaScript
+<br>Preview:![age_calc](https://user-images.githubusercontent.com/91725049/148627736-6657ef21-5737-451d-bbe0-c728e385902e.jpg)
